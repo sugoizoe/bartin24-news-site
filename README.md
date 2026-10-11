@@ -180,16 +180,6 @@ The site works on desktop, tablet and mobile:
 - Media queries for mobile
 - Touch-friendly buttons and links
 
-## Roadmap
-
-- [ ] Comment system (with admin approval)
-- [ ] News search
-- [ ] Article detail page
-- [ ] Social media share buttons
-- [ ] View count tracking
-- [ ] Email notifications
-- [ ] RSS feed
-- [ ] Multi-language support
 
 ## Notes
 
